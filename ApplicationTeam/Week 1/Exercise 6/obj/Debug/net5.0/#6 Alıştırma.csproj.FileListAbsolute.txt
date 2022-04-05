@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\bin\Debug\net5.0\#6 Alıştırma.exe
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\bin\Debug\net5.0\#6 Alıştırma.deps.json
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\bin\Debug\net5.0\#6 Alıştırma.runtimeconfig.json
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\bin\Debug\net5.0\#6 Alıştırma.runtimeconfig.dev.json
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\bin\Debug\net5.0\#6 Alıştırma.dll
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\bin\Debug\net5.0\ref\#6 Alıştırma.dll
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\bin\Debug\net5.0\#6 Alıştırma.pdb
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.AssemblyInfo.cs
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.dll
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\ref\#6 Alıştırma.dll
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.pdb
+C:\Users\Can\Desktop\C# .Net Core\C# uygulama ekibi\#6 Alıştırma\obj\Debug\net5.0\#6 Alıştırma.genruntimeconfig.cache
