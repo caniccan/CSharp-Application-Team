@@ -1,0 +1,16 @@
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\bin\Debug\net5.0\MethodsApplication.exe
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\bin\Debug\net5.0\MethodsApplication.deps.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\bin\Debug\net5.0\MethodsApplication.runtimeconfig.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\bin\Debug\net5.0\MethodsApplication.runtimeconfig.dev.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\bin\Debug\net5.0\MethodsApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\bin\Debug\net5.0\ref\MethodsApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\bin\Debug\net5.0\MethodsApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\ref\MethodsApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\MethodsApplication\MethodsApplication\obj\Debug\net5.0\MethodsApplication.genruntimeconfig.cache
