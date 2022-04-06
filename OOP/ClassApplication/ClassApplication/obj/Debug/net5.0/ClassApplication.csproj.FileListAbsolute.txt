@@ -1,0 +1,16 @@
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\bin\Debug\net5.0\ClassApplication.exe
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\bin\Debug\net5.0\ClassApplication.deps.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\bin\Debug\net5.0\ClassApplication.runtimeconfig.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\bin\Debug\net5.0\ClassApplication.runtimeconfig.dev.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\bin\Debug\net5.0\ClassApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\bin\Debug\net5.0\ref\ClassApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\bin\Debug\net5.0\ClassApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ref\ClassApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ClassApplication\ClassApplication\obj\Debug\net5.0\ClassApplication.genruntimeconfig.cache
