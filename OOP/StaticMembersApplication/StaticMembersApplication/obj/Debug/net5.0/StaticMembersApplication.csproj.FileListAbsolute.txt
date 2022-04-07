@@ -1,0 +1,16 @@
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\bin\Debug\net5.0\StaticMembersApplication.exe
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\bin\Debug\net5.0\StaticMembersApplication.deps.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\bin\Debug\net5.0\StaticMembersApplication.runtimeconfig.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\bin\Debug\net5.0\StaticMembersApplication.runtimeconfig.dev.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\bin\Debug\net5.0\StaticMembersApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\bin\Debug\net5.0\ref\StaticMembersApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\bin\Debug\net5.0\StaticMembersApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\ref\StaticMembersApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\StaticMembersApplication\StaticMembersApplication\obj\Debug\net5.0\StaticMembersApplication.genruntimeconfig.cache
