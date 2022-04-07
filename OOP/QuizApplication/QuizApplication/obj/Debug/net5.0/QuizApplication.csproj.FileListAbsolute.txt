@@ -1,0 +1,16 @@
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\bin\Debug\net5.0\QuizApplication.exe
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\bin\Debug\net5.0\QuizApplication.deps.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\bin\Debug\net5.0\QuizApplication.runtimeconfig.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\bin\Debug\net5.0\QuizApplication.runtimeconfig.dev.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\bin\Debug\net5.0\QuizApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\bin\Debug\net5.0\ref\QuizApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\bin\Debug\net5.0\QuizApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\ref\QuizApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\QuizApplication\QuizApplication\obj\Debug\net5.0\QuizApplication.genruntimeconfig.cache
