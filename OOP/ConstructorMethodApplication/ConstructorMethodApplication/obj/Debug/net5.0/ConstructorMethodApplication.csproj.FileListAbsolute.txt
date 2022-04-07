@@ -1,0 +1,16 @@
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\bin\Debug\net5.0\ConstructorMethodApplication.exe
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\bin\Debug\net5.0\ConstructorMethodApplication.deps.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\bin\Debug\net5.0\ConstructorMethodApplication.runtimeconfig.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\bin\Debug\net5.0\ConstructorMethodApplication.runtimeconfig.dev.json
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\bin\Debug\net5.0\ConstructorMethodApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\bin\Debug\net5.0\ref\ConstructorMethodApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\bin\Debug\net5.0\ConstructorMethodApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.csproj.AssemblyReference.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.AssemblyInfoInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.AssemblyInfo.cs
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.csproj.CoreCompileInputs.cache
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ref\ConstructorMethodApplication.dll
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.pdb
+C:\Users\Can\Documents\GitHub\CSharp-Applications\OOP\ConstructorMethodApplication\ConstructorMethodApplication\obj\Debug\net5.0\ConstructorMethodApplication.genruntimeconfig.cache
